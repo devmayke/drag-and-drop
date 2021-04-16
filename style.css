@@ -67,6 +67,12 @@ body{
     border-radius: 4px;
     color: white;
 }
+.card-header:hover{
+    background: rgb(50, 51, 60);
+    cursor:pointer;
+    font-size: 22px;
+    font-weight: 700;
+}
 .color-light{
     opacity: 0.8;
 }
